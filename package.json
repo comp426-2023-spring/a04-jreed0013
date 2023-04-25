@@ -2,7 +2,7 @@
   "name": "a04-jreed0013",
   "version": "1.0.0",
   "description": "426 a04",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "node server.js --port=5555",
